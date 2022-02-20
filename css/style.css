@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Amiri:400,400i,700,700i|Montserrat:400,700');
+
 html, body {
 	height: 100%;
 }
@@ -7,4 +9,11 @@ header {
 	position: relative;
 	background-size: cover;
 	background-attachment: fixed;
+}
+.navbar {
+	background-color: rgba(180, 192, 230, 0.9);
+	font-family: montserrat;
+}
+.link-semcitec {
+	color: #1b41b4ff;
 }
